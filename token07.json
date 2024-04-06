@@ -1,0 +1,15 @@
+{
+    "name": "token07",
+    "description": "crowdfunding for educational institution",
+    "image": "https://www.bing.com/images/create/blockchain-token-representing-broadcasting-rights-/1-6611878129aa4ed0a6660728935b2e6d?id=mwofRSDmsNxYFFUUgDd3OA%3d%3d&view=detailv2&idpp=genimg&idpclose=1&thId=OIG2.xEuzPh6_auqsjjrz.b1M&frame=sydedg&FORM=SYDBIC",
+    "attributes": [
+        {
+            "trait_type": "Trait Name",
+            "value": "Trait Value"
+        },
+        {
+            "trait_type": "Trait Name",
+            "value": "Trait Value"
+        }
+    ]
+}
